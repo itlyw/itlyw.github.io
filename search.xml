@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>CSS属性计算过程详情</title>
-    <url>/itlyw/blog.io.git/2023/03/12/CSS%E5%B1%9E%E6%80%A7%E8%AE%A1%E7%AE%97%E8%BF%87%E7%A8%8B%E8%AF%A6%E6%83%85/</url>
+    <url>/2023/03/12/CSS%E5%B1%9E%E6%80%A7%E8%AE%A1%E7%AE%97%E8%BF%87%E7%A8%8B%E8%AF%A6%E6%83%85/</url>
     <content><![CDATA[<h1 id="CSS-属性计算过程"><a href="#CSS-属性计算过程" class="headerlink" title="CSS 属性计算过程"></a>CSS 属性计算过程</h1><p>你是否了解 CSS 的属性计算过程呢？</p>
 <p>有的人可能会讲，CSS属性我倒是知道，例如：</p>
 <figure class="highlight css"><table><tr><td class="code"><pre><span class="line"><span class="selector-tag">p</span>&#123;</span><br><span class="line">  <span class="attribute">color</span> : red;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
@@ -146,7 +146,7 @@
   </entry>
   <entry>
     <title>事件循环</title>
-    <url>/itlyw/blog.io.git/2023/03/12/%E8%AF%BE%E4%BB%B6/</url>
+    <url>/2023/03/12/%E8%AF%BE%E4%BB%B6/</url>
     <content><![CDATA[<h1 id="事件循环"><a href="#事件循环" class="headerlink" title="事件循环"></a>事件循环</h1><h2 id="浏览器的进程模型"><a href="#浏览器的进程模型" class="headerlink" title="浏览器的进程模型"></a>浏览器的进程模型</h2><h3 id="何为进程？"><a href="#何为进程？" class="headerlink" title="何为进程？"></a>何为进程？</h3><p>程序运行需要有它自己专属的内存空间，可以把这块内存空间简单的理解为进程</p>
 <img src="http://mdrs.yuanjin.tech/img/202208092057573.png" alt="image-20220809205743532" style="zoom:50%;" />
 
